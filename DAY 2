@@ -1,0 +1,40 @@
+🧠 Difference between AI, ML, and DL
+🤖 Artificial Intelligence (AI)
+
+👉 The big umbrella
+
+Goal: Make machines behave intelligently like humans
+Includes:
+Rule-based systems
+Machine Learning
+Robotics, NLP, etc.
+
+📌 Example:
+
+Chatbots
+Self-driving cars
+Game-playing AI
+📊 Machine Learning (ML)
+
+👉 Subset of AI
+
+Machines learn from data instead of being explicitly programmed
+Uses algorithms to find patterns
+
+📌 Example:
+
+Spam email detection
+Netflix recommendations
+Stock prediction
+🧠 Deep Learning (DL)
+
+👉 Subset of ML
+
+Uses neural networks (like brain)
+Works best with large data
+
+📌 Example:
+
+Face recognition
+Voice assistants (Siri, Alexa)
+Self-driving vision systems
